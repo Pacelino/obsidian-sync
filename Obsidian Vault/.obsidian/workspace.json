@@ -8,22 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f5367b010c37d97",
+            "id": "f63a62ec849adbc8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "files/photo_2024-02-26 23.04.06.jpeg"
-              }
-            }
-          },
-          {
-            "id": "0e4fba5137c98178",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "files/photo_2024-02-26 23.04.13.jpeg"
+                "file": "Git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/photo_2024-02-26 23.04.06.jpeg",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/photo_2024-02-26 23.04.06.jpeg",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/photo_2024-02-26 23.04.06.jpeg"
+                "file": "Git.md"
               }
             }
           },
@@ -176,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74d4096445db0d21",
+  "active": "f63a62ec849adbc8",
   "lastOpenFiles": [
+    "files/photo_2024-02-26 23.04.06.jpeg",
+    "Git.md",
     "files/photo_2024-02-26 23.04.13.jpeg",
     "files/photo_2024-02-26 23.04.11.jpeg",
     "PostgreSQL.md",
     "Django.md",
     "files/photo_2024-02-26 23.04.09.jpeg",
-    "files/photo_2024-02-26 23.04.06.jpeg",
     "Обращение к моделям django через консоль.md",
     "serializer.md",
     "Python/Venv.md",
@@ -209,7 +203,6 @@
     "Python/Потоковый ввод и вывод.md",
     "Python/моржовый оператор.md",
     "files/Screenshot 2024-01-23 at 14.27.58.png",
-    "Уник/Вычмат/Разделенная разность.md",
     "Уник",
     "files/Screenshot 2023-12-24 at 23.04.37.png",
     "files/Screenshot 2023-12-24 at 22.36.43.png",
