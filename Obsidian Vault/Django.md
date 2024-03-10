@@ -37,7 +37,7 @@ from .models import SalesOrder
 admin.site.register(SalesOrder)
 ```
 
-Для того чтобы пощупать данные из модели запускаем `./manage.py shell` и импортируем в нее наш класс`from orders.models import SalesOrder`. Для получения всех значений `SalesOrder.objects.all()`
+Для того чтобы пощупать данные из модели запускаем `./manage.py shell` и импортируем в нее наш класс`from orders.models import SalesOrder`. Для получения всех значений `SalesOrder.objects.all()`. Также можно фильтровать значения используя `SalesOrder.objects.filter(amount > 10)`
 
 
 ### Связи между моделями 
@@ -95,7 +95,7 @@ def orders_page(request):
 	return render(request, 'index.html', 
 	{'orders': SalesOrder.objects.all()})
 ```
-в функцию `render` передаем request и файл где написана сама отрисовка. Все html хранятса в папке templates созданной в проекте. 
+в функцию `render` передаем request и файл где написана сама отрисовка. Все [[Фронт|html]] хранятса в папке templates созданной в проекте. 
 Для того чтобы к моделям можно было обратиться в фронте передаем их через словарь. 
 
 

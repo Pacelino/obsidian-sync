@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2345e5e3ef4dbe05",
+        "id": "b149447eef9dce8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f63a62ec849adbc8",
+            "id": "6b184c99c2ea3f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Просто о компьютерном железе.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "928a4107d1efd392",
+            "id": "13e93ea530494e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django bakend.md",
+                "file": "Unix и Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Unix и Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Unix и Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Unix и Linux.md"
               }
             }
           },
@@ -169,20 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63a62ec849adbc8",
+  "active": "13e93ea530494e88",
   "lastOpenFiles": [
-    "files/photo_2024-02-26 23.04.06.jpeg",
+    "Просто о компьютерном железе.md",
+    "Unix и Linux.md",
     "Git.md",
+    "Фронт.md",
+    "Django.md",
+    "Оглавление Python.md",
+    "Python/Venv.md",
+    "Python/JSON.md",
+    "Python/api.md",
+    "serializer.md",
+    "Django bakend.md",
+    "PostgreSQL.md",
+    "files/photo_2024-02-26 23.04.06.jpeg",
     "files/photo_2024-02-26 23.04.13.jpeg",
     "files/photo_2024-02-26 23.04.11.jpeg",
-    "PostgreSQL.md",
-    "Django.md",
     "files/photo_2024-02-26 23.04.09.jpeg",
     "Обращение к моделям django через консоль.md",
-    "serializer.md",
-    "Python/Venv.md",
-    "Django bakend.md",
-    "Оглавление Python.md",
     "Думаем....md",
     "Проект Магнита.md",
     "Уник/Вычмат ;).md",
@@ -196,12 +202,8 @@
     "Уник/Вычмат/Выбор узлов интерполирования, полином Ньютона.md",
     "Уник/Вычмат",
     "Subshell.md",
-    "Python/JSON.md",
     "Python/requests.md",
     "Python/http.md",
-    "Python/api.md",
-    "Python/Потоковый ввод и вывод.md",
-    "Python/моржовый оператор.md",
     "files/Screenshot 2024-01-23 at 14.27.58.png",
     "Уник",
     "files/Screenshot 2023-12-24 at 23.04.37.png",
