@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Просто о компьютерном железе.md",
+                "file": "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 402.5
   },
   "right": {
     "id": "f5198be55c45f103",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix и Linux.md",
+                "file": "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix и Linux.md",
+                "file": "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix и Linux.md"
+                "file": "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md"
               }
             }
           },
@@ -170,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13e93ea530494e88",
+  "active": "6b184c99c2ea3f04",
   "lastOpenFiles": [
+    "Git.md",
     "Просто о компьютерном железе.md",
     "Unix и Linux.md",
-    "Git.md",
     "Фронт.md",
     "Django.md",
     "Оглавление Python.md",
