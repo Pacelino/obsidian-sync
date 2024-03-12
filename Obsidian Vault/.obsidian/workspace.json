@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38f333b5b68a370d",
+        "id": "e92de28debd1f129",
         "type": "tabs",
         "children": [
           {
-            "id": "8f945f2019caed64",
+            "id": "c810da58e2b5cd7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Файлы, кодировки.md",
+                "file": "Командная строка.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5110321044922
+    "width": 200
   },
   "right": {
     "id": "f5198be55c45f103",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Файлы, кодировки.md",
+                "file": "Командная строка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Файлы, кодировки.md",
+                "file": "Командная строка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Файлы, кодировки.md"
+                "file": "Командная строка.md"
               }
             }
           },
@@ -148,33 +148,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8f945f2019caed64",
+  "active": "c810da58e2b5cd7d",
   "lastOpenFiles": [
-    "Git.md",
     "Основы linux и bash.md",
-    "Алгоритмы.md",
     "Программа и программирование.md",
-    "Unix и Linux.md",
     "Просто о компьютерном железе.md",
-    "serializer.md",
+    "Файлы, кодировки.md",
+    "Обращение к моделям django через консоль.md",
+    "Командная строка.md",
+    "Проект Магнита.md",
+    "Фронт.md",
+    "Проект Кремля.md",
     "Операционные сети.md",
+    "Оглавление Python.md",
+    "Unix и Linux.md",
+    "Алгоритмы.md",
+    "Git.md",
+    "serializer.md",
     "Python/Исключения Python.md",
     "Уник/Вычмат/Собственные исключения.md",
-    "Оглавление Python.md",
-    "Командная строка.md",
     "Subshell.md",
     "PostgreSQL.md",
-    "Файлы, кодировки.md",
     "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
-    "Фронт.md",
     "Django.md",
     "Python/Venv.md",
     "Python/JSON.md",
@@ -184,10 +187,7 @@
     "files/photo_2024-02-26 23.04.13.jpeg",
     "files/photo_2024-02-26 23.04.11.jpeg",
     "files/photo_2024-02-26 23.04.09.jpeg",
-    "Обращение к моделям django через консоль.md",
     "Думаем....md",
-    "Проект Магнита.md",
-    "Уник/Вычмат ;).md",
     "files/Screenshot 2024-02-05 at 16.41.35.png",
     "Уник/Вычмат",
     "files/Screenshot 2024-01-23 at 14.27.58.png",
