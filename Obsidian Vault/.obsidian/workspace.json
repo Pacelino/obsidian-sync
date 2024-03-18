@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e92de28debd1f129",
+        "id": "1e1fc34dd96db9ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c810da58e2b5cd7d",
+            "id": "18ae5ddc99cff2c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff7b32edc1f5b82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cookies, сессии, безопасность.md",
-                "mode": "source",
+                "file": "Основы linux и bash.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 470.5110321044922
   },
   "right": {
     "id": "f5198be55c45f103",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cookies, сессии, безопасность.md",
+                "file": "Основы linux и bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cookies, сессии, безопасность.md",
+                "file": "Основы linux и bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cookies, сессии, безопасность.md"
+                "file": "Основы linux и bash.md"
               }
             }
           },
@@ -170,36 +156,37 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ff7b32edc1f5b82b",
+  "active": "18ae5ddc99cff2c8",
   "lastOpenFiles": [
-    "Сети.md",
-    "Cookies, сессии, безопасность.md",
-    "files/Pasted image 20240313194359.png",
+    "Думаем....md",
+    "Список Задач.md",
+    "Обращение к моделям django через консоль.md",
+    "Django.md",
     "Операционные сети.md",
     "Основы linux и bash.md",
-    "Pasted.md",
-    "files/Pasted image 20240313160113.png",
-    "Командная строка.md",
-    "Программа и программирование.md",
+    "Subshell.md",
+    "Фронтенд технологии.md",
+    "Сети.md",
     "Просто о компьютерном железе.md",
     "Файлы, кодировки.md",
-    "Обращение к моделям django через консоль.md",
-    "Проект Магнита.md",
-    "Фронт.md",
-    "Проект Кремля.md",
+    "Программа и программирование.md",
+    "Командная строка.md",
     "Оглавление Python.md",
-    "Unix и Linux.md",
+    "Запуск HTTP сервера.md",
     "Алгоритмы.md",
+    "Unix и Linux.md",
+    "Cookies, сессии, безопасность.md",
+    "Pasted.md",
+    "Шаблонизация  HTML в django.md",
+    "HTML И CSS.md",
     "Git.md",
-    "serializer.md",
-    "Python/Исключения Python.md",
-    "Уник/Вычмат/Собственные исключения.md",
-    "Subshell.md",
-    "PostgreSQL.md",
-    "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
-    "Django.md",
-    "Python/Venv.md",
-    "Python/JSON.md",
+    "Django bakend.md",
+    "files/Pasted image 20240318161445.png",
+    "Python/Словари.md",
+    "JS.md",
+    "files/Pasted image 20240313194359.png",
+    "files/Pasted image 20240313160113.png",
+    "Проект Магнита.md",
     "files/photo_2024-02-26 23.04.06.jpeg",
     "files/photo_2024-02-26 23.04.13.jpeg",
     "files/photo_2024-02-26 23.04.11.jpeg",
@@ -209,7 +196,6 @@
     "files/Screenshot 2024-01-23 at 14.27.58.png",
     "Уник",
     "files/Screenshot 2023-12-24 at 23.04.37.png",
-    "files/Screenshot 2023-12-24 at 22.36.43.png",
     "files/Базовый_уровень_3_семестр_Поурочный_план_NewLL,_2_курс,_2_часа.docx",
     "Базовый_уровень_3_семестр_Поурочный_план_NewLL,_2_курс,_2_часа.docx",
     "Уник/Английский/Unit 9 New Language Leader Int..pdf",

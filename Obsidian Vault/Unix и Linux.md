@@ -22,3 +22,5 @@ sudo apt update
 echo "priveet" > hello_coders.txt
 ```
 В итоге создается файл hello_coders.txt с текстом `priveet`.
+
+[[Основы linux и bash|ОСНОВЫ работы с командной строкой и bash]]

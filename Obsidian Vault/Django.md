@@ -95,7 +95,7 @@ def orders_page(request):
 	return render(request, 'index.html', 
 	{'orders': SalesOrder.objects.all()})
 ```
-в функцию `render` передаем request и файл где написана сама отрисовка. Все [[Фронт|html]] хранятса в папке templates созданной в проекте. 
+в функцию `render` передаем request и файл где написана сама отрисовка. Все [[Шаблонизация  HTML в django|html]] хранятса в папке templates созданной в проекте. 
 Для того чтобы к моделям можно было обратиться в фронте передаем их через словарь. 
 
 
