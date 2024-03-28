@@ -4,13 +4,13 @@
 
 Для импорта модуля из файла, например `example_module.py`, нужно указать его имя, если он находится в той же папке, что и импортирующая его программа:
 
-```
+```python
 import example_module
 ```
 
 Если требуется отдельный компонент модуля, например функция или класс, то импорт можно осуществить так:
 
-```
+```python
 from example_module import some_function, ExampleClass
 ```
 
@@ -56,10 +56,8 @@ if __name__ == "__main__":
 def hello(name):
     return f"Привет, {name}!"
 
-
 def main():
     print(hello(input("Введите своё имя: ")))
-
 
 if __name__ == "__main__":
     main()

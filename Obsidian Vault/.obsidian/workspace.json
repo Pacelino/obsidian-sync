@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1fc34dd96db9ab",
+        "id": "00d8887bdd241545",
         "type": "tabs",
         "children": [
           {
-            "id": "18ae5ddc99cff2c8",
+            "id": "734572f6327184dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы linux и bash.md",
-                "mode": "preview",
+                "file": "Git.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5110321044922
+    "width": 200
   },
   "right": {
     "id": "f5198be55c45f103",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основы linux и bash.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основы linux и bash.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основы linux и bash.md"
+                "file": "Git.md"
               }
             }
           },
@@ -156,46 +156,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "18ae5ddc99cff2c8",
+  "active": "734572f6327184dd",
   "lastOpenFiles": [
-    "Думаем....md",
-    "Список Задач.md",
-    "Обращение к моделям django через консоль.md",
-    "Django.md",
-    "Операционные сети.md",
-    "Основы linux и bash.md",
-    "Subshell.md",
-    "Фронтенд технологии.md",
-    "Сети.md",
-    "Просто о компьютерном железе.md",
-    "Файлы, кодировки.md",
-    "Программа и программирование.md",
-    "Командная строка.md",
+    "Веб-сервера и сервер приложение.md",
+    "Базы данных.md",
+    "Бэкенд технологии.md",
+    "CDN (content delivery network).md",
+    "Python/http.md",
     "Оглавление Python.md",
-    "Запуск HTTP сервера.md",
-    "Алгоритмы.md",
-    "Unix и Linux.md",
-    "Cookies, сессии, безопасность.md",
-    "Pasted.md",
-    "Шаблонизация  HTML в django.md",
-    "HTML И CSS.md",
-    "Git.md",
-    "Django bakend.md",
-    "files/Pasted image 20240318161445.png",
+    "Фронтенд технологии.md",
+    "Критерии хорошей программы.md",
+    "Баги и работа с ними.md",
+    "Python/Venv.md",
+    "Основы linux и bash.md",
+    "Пакеты, модули.md",
+    "Python/JSON.md",
+    "files/Pasted image 20240327234533.png",
+    "Удобные штуки стандартных библиотек.md",
+    "files/Pasted image 20240327233932.png",
+    "Subshell.md",
+    "Работа с датами и временем.md",
+    "Синтаксический сахар.md",
     "Python/Словари.md",
-    "JS.md",
+    "Уник/Вычмат.md",
+    "Python/Исключения Python.md",
+    "Python/Модули, Как создать свой модуль, Условие if __name__ == __main__.md",
+    "Уник/Вычмат/Собственные исключения.md",
+    "Статические методы, методы класса.md",
+    "Python/Классы, объекты, поля.md",
+    "Python/Наследование.md",
+    "Нейминг, type hinting, комментарии.md",
+    "files/Pasted image 20240318161445.png",
     "files/Pasted image 20240313194359.png",
     "files/Pasted image 20240313160113.png",
-    "Проект Магнита.md",
     "files/photo_2024-02-26 23.04.06.jpeg",
     "files/photo_2024-02-26 23.04.13.jpeg",
     "files/photo_2024-02-26 23.04.11.jpeg",
     "files/photo_2024-02-26 23.04.09.jpeg",
     "files/Screenshot 2024-02-05 at 16.41.35.png",
     "Уник/Вычмат",
-    "files/Screenshot 2024-01-23 at 14.27.58.png",
     "Уник",
-    "files/Screenshot 2023-12-24 at 23.04.37.png",
     "files/Базовый_уровень_3_семестр_Поурочный_план_NewLL,_2_курс,_2_часа.docx",
     "Базовый_уровень_3_семестр_Поурочный_план_NewLL,_2_курс,_2_часа.docx",
     "Уник/Английский/Unit 9 New Language Leader Int..pdf",
